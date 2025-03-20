@@ -1,0 +1,9 @@
+{
+  "services": {
+    "mcp": {
+      "name": "BMI计算服务",
+      "url": "http://localhost:8000/mcp",
+      "enabled": true
+    }
+  }
+}
